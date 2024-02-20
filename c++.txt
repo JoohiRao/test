@@ -1,1 +1,2 @@
 c++ is developed by bjarne stroustroup.
+it is based on OOP
